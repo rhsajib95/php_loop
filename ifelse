@@ -1,0 +1,22 @@
+<?php
+$name = "Nishat";
+$number = 10;
+
+if($name == "Nishat")
+{
+    echo "Successfully Login";
+}
+else {
+    echo "Wrong credintential";
+}
+echo "<br>";
+
+if($number == 10)
+{
+    echo "The Number you type is correct";
+}
+else
+{
+    echo "The Number you type is not correct";
+}
+?>
